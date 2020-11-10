@@ -1,4 +1,4 @@
-<div style="border-radius: 10px;"><img src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/blanket.png" width="100" height="100"></div>
+<img class='round' src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/blanket.png" width="100" height="100">
 
 
 # Твоё одеяло
@@ -27,3 +27,8 @@ python3 push_tarantool.py
 python3 blanket_bot.py
 ```
 
+<style>
+   .round {
+    border-radius: 100px; /* Радиус скругления */
+   }
+  </style>
