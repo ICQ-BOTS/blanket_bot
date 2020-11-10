@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <img src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/blanket.png" width="100" height="100">
 
 # Твоё одеяло
