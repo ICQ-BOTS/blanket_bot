@@ -1,8 +1,6 @@
 <<<<<<< HEAD
 <img src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/blanket.png" width="100" height="100">
 
-=======
->>>>>>> 6e00cd5558707e0d92b561d1eaaa13d35c968980
 # Твоё одеяло
 
 Старт:
@@ -27,8 +25,5 @@ python3 push_tarantool.py
 5. Запуск бота!
 ```bash
 python3 blanket_bot.py
-<<<<<<< HEAD
 ```
-=======
-```
->>>>>>> 6e00cd5558707e0d92b561d1eaaa13d35c968980
+
