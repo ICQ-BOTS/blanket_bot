@@ -5,7 +5,7 @@
 Старт:
 1. Установка всех зависимостей 
 ```bash
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 2. Запуск space tarantool.
