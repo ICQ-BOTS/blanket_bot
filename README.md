@@ -1,4 +1,9 @@
-<img style="border-radius: 100px;" src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/blanket.png" width="100" height="100">
+<style>
+  .round { 
+    border-radius: 100px;
+  }
+</style>
+<img class=".round" src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/blanket.png" width="100" height="100" style="border-radius: 100px;">
 
 
 # Твоё одеяло
