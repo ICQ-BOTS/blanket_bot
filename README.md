@@ -1,6 +1,9 @@
 <img src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/blanket.png" width="100" height="100">
 
+<<<<<<< Updated upstream
 
+=======
+>>>>>>> Stashed changes
 # Твоё одеяло
 
 [Твоё одеяло](https://icq.im/blanket_bot)
@@ -28,3 +31,7 @@ python3 push_tarantool.py
 ```bash
 python3 blanket_bot.py
 ```
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
