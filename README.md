@@ -1,9 +1,9 @@
-<img src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/blanket.png" width="100" height="100">
-
 
 # Твоё одеяло
 
 [Твоё одеяло](https://icq.im/blanket_bot)
+<img src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/blanket.png" width="100" height="100">
+
 
 # Оглавление 
  - [Описание](https://github.com/ICQ-BOTS/mailru_im_async_bot#api)
