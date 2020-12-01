@@ -14,7 +14,6 @@
 
 # Установка
 
-Старт:
 1. Установка всех зависимостей 
 ```bash
 pip3 install -r requirements.txt
