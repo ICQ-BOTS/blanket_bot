@@ -5,9 +5,9 @@
 
 
 # Оглавление 
- - [Описание](https://github.com/ICQ-BOTS/mailru_im_async_bot#api)
- - [Установка](https://github.com/ICQ-BOTS/mailru_im_async_bot#установка)
- - [Скриншоты работы](https://github.com/ICQ-BOTS/mailru_im_async_bot#настройка)
+ - [Описание](https://github.com/ICQ-BOTS/blanket_bot#оглавление)
+ - [Установка](https://github.com/ICQ-BOTS/blanket_bot#описание)
+ - [Скриншоты работы](https://github.com/ICQ-BOTS/blanket_bot#установка)
 
 # Описание
 Это твое одеяло. Я буду напоминать тебе каждый день, как я по тебе скучаю.
