@@ -5,6 +5,16 @@
 
 [Твоё одеяло](https://icq.im/blanket_bot)
 
+# Оглавление 
+ - [Описание](https://github.com/ICQ-BOTS/mailru_im_async_bot#api)
+ - [Установка](https://github.com/ICQ-BOTS/mailru_im_async_bot#установка)
+ - [Скриншоты работы](https://github.com/ICQ-BOTS/mailru_im_async_bot#настройка)
+
+# Описание
+Это твое одеяло. Я буду напоминать тебе каждый день, как я по тебе скучаю.
+
+# Установка
+
 Старт:
 1. Установка всех зависимостей 
 ```bash
@@ -28,3 +38,9 @@ python3 push_tarantool.py
 ```bash
 python3 blanket_bot.py
 ```
+
+# Скриншоты работы
+<img src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/img/1.png" width="400">
+<img src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/img/2.png" width="400">
+<img src="https://github.com/ICQ-BOTS/blanket_bot/blob/main/img/3.png" width="400">
+
