@@ -5,9 +5,9 @@
 
 
 # Оглавление 
- - [Описание](https://github.com/ICQ-BOTS/blanket_bot#оглавление)
- - [Установка](https://github.com/ICQ-BOTS/blanket_bot#описание)
- - [Скриншоты работы](https://github.com/ICQ-BOTS/blanket_bot#установка)
+ - [Описание](https://github.com/ICQ-BOTS/blanket_bot#описание)
+ - [Установка](https://github.com/ICQ-BOTS/blanket_bot#установка)
+ - [Скриншоты работы](https://github.com/ICQ-BOTS/blanket_bot#скриншоты-работы)
 
 # Описание
 Это твое одеяло. Я буду напоминать тебе каждый день, как я по тебе скучаю.
