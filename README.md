@@ -6,11 +6,18 @@
 
 # Оглавление 
  - [Описание](https://github.com/ICQ-BOTS/blanket_bot#описание)
+ - [Требования](https://github.com/ICQ-BOTS/blanket_bot#требования)
  - [Установка](https://github.com/ICQ-BOTS/blanket_bot#установка)
  - [Скриншоты работы](https://github.com/ICQ-BOTS/blanket_bot#скриншоты-работы)
 
 # Описание
 Это твое одеяло. Я буду напоминать тебе каждый день, как я по тебе скучаю.
+
+
+# Требования
+1. База данных - tarantool 2.6
+2. python3.6
+
 
 # Установка
 
